@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1456700553 source:c:\users\user\desktop\school\cisc3150\reverse words\reverse words.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
